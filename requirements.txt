@@ -1,3 +1,4 @@
+accelerate==1.6.0
 aiodns==3.2.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.16
@@ -62,6 +63,7 @@ pfzy==0.3.4
 prettytable==3.16.0
 prompt_toolkit==3.0.50
 propcache==0.3.1
+psutil==7.0.0
 py-cpuinfo==9.0.0
 pycares==4.5.0
 pycparser==2.22
