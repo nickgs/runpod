@@ -6,4 +6,4 @@ COPY UIGen.py /
 RUN pip install -r requirements.txt --no-cache-dir runpod 
 
 # Start the container
-CMD ["python3", "-u", "UIGen.py"]
+CMD ["python3", "-u", "sentiment_analysis.py"]
